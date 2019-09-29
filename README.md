@@ -22,7 +22,7 @@ The module is setup so that pressing the pushbutton powers on the Raspberry Pi; 
 
 Module Wiring Diagram:
 
-![Wiring Diagram](https://github.com/nadehi18/RocketPi/blob/master/RocketPiWiringSchematic.png)
+![Wiring Diagram](https://github.com/nadehi18/RocketPi/blob/master/images/RocketPiWiringSchematic.png)
 
 ## Sensor Script
 
@@ -32,26 +32,26 @@ The sensor monitoring script was written in Python, and utilized some premade mo
 
 Simulated Image from OpenRocket:
 
-![Simulated Rocket](https://github.com/nadehi18/RocketPi/blob/master/simulated-image.png)
+![Simulated Rocket](https://github.com/nadehi18/RocketPi/blob/master/images/simulated-image.png)
 
 Completed Rocket:
 
-![Rocket](https://github.com/nadehi18/RocketPi/blob/master/rocket-whole.png)
+![Rocket](https://github.com/nadehi18/RocketPi/blob/master/images/rocket-whole.png)
 
 Expanded Rocket:
 
-![Expanded Rocket](https://github.com/nadehi18/RocketPi/blob/master/rocket-expanded.png)
+![Expanded Rocket](https://github.com/nadehi18/RocketPi/blob/master/images/rocket-expanded.png)
 
 ## Raspberry Pi Module Images
 
 Sensors:
 
-![Sensors](https://github.com/nadehi18/RocketPi/blob/master/sensor-side.png)
+![Sensors](https://github.com/nadehi18/RocketPi/blob/master/images/sensor-side.png)
 
 Battery Circuit:
 
-![Battery Circuit](https://github.com/nadehi18/RocketPi/blob/master/battery-circuit.png)
+![Battery Circuit](https://github.com/nadehi18/RocketPi/blob/master/images/battery-circuit.png)
 
 Side View:
 
-![Module Side View](https://github.com/nadehi18/RocketPi/blob/master/side-view.png)
+![Module Side View](https://github.com/nadehi18/RocketPi/blob/master/images/side-view.png)
