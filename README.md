@@ -1,4 +1,5 @@
 # RocketPi
+<img width=100px src="https://raw.githubusercontent.com/nadehi18/social-templates/master/codecard-python.png">
 
 RocketPi was a custom designed rocket with a payload of a Raspberry Pi Zero W.  The Zero W also had two different sensors connected: an altimeter and an accelerometer.  
 
